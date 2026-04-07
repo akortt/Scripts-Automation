@@ -1,0 +1,6 @@
+Powershell; 
+https://gist.github.com/devops-school/43dfcd57c0c807e83d01fc6a9639d3d9
+https://www.youtube.com/watch?v=ZOoCaWyifmI
+
+Bash; 
+https://linuxhandbook.com/courses/bash/
