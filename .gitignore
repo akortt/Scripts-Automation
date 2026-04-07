@@ -1,0 +1,6 @@
+# Ignore the startup.txt file
+startup.txt
+
+# Ignore the venv folder
+/venv/
+
