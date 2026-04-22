@@ -4,3 +4,5 @@ startup.txt
 # Ignore the venv folder
 /venv/
 
+# Ignore Vscode
+.vscode
