@@ -1,0 +1,3 @@
+alice:$6$rounds=656000$EjxOsOAfwUOxDVEB$AaiOPVbA02I4VvWTmj6HPt6QTt2KJp7dRFo5KseLpdDdEm4/qIcBH8pZP/h7GrARtBqXkwDDdadrdWL0bWMtG.
+bob:$6$rounds=656000$6D0vqPdQsipoKHLe$B6Zg3pDXTUq.P41gW1SjEPc8qf/g8wM1DE4rgDpx0QKVqniO3DgEySsQOITHiZV52vvOgwWvixGN3wb24fQqk.
+charlie:$6$rounds=656000$2ATJMLbEFhyqEknp$lSqry0Zrn2NzurpNZhXNbImkakAzaKoG3C1cc0yPxb.KYpIMtrWJysMAEAxGwXR0fLiktIKYaJegE7bzo1GRJ/
