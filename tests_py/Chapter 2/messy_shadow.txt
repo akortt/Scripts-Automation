@@ -1,0 +1,5 @@
+ alice : $6$abc$hash1   : 1001 : /home/alice  
+bob:$6$def$hash2:1002:/home/bob
+   charlie :$6$ghi$hash3 :1003: /home/charlie    
+david : $6$jkl$hash4:1004 :/home/david
+eve:$6$mno$hash5 :1005:/home/eve    
